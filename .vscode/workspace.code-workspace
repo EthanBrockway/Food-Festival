@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "Food-Festival",
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Food-Festival"
+  }
+}
