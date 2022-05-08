@@ -1,7 +1,7 @@
 require("bootstrap");
 const createEl = require("./domMethods");
 
-$(document).jquery(function () {
+$(document).load(function () {
   if (window.location.href.indexOf("tickets") > -1) {
     const purchaseBtn = document.getElementById("purchaseBtn");
     const purchaseEmail = document.getElementById("purchaseEmail");
